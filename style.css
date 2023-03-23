@@ -1,0 +1,11 @@
+.img{
+    max-width: 20%;
+}
+
+h1{
+    display: inline-block;
+}
+a{
+    display: flex;
+    gap: 1rem;
+}
